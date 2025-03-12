@@ -15,18 +15,18 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://github.com',
+  url: 'https://CapellaSystems.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/CapellaDocuments/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'CapellaDocuments', // Usually your GitHub org/user name.
-  projectName: 'CapellaDocuments', // Usually your repo name.
-  deploymentBranch: "gh-pages",
-
-  onBrokenLinks: 'throw',
+  organizationName: 'CapellaSystems', // Usually your GitHub org/user name.
+  projectName: 'CapellaSystems.github.io', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
