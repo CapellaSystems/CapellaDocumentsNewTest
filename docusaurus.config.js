@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Capella Docuements',
-  tagline: 'Welcome to the Capella's Documentation',
+  tagline: "Welcome to the Capella's Documentation",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -147,7 +147,7 @@ const config = {
             items: [
               {
                 label: 'Terms of Use',
-                href: https://www.capellasystems.net/terms-of-use',
+                href: 'https://www.capellasystems.net/terms-of-use',
               },
               {
                 label: 'Privacy Policy',
